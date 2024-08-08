@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class MemberController {
     @GetMapping
     public String getMember() {
-        return "Hello, Jungkyun!";
+        return "Hello, WONIL!";
     }
 }
